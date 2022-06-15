@@ -1,5 +1,15 @@
 # MODULE 9: Surf's Up with Advanced Data Storage and Retrieval
 
+In this lesson, I'll learn about SQLite, a smaller, quicker version of SQL that doesn't require users because it exists on a computer or mobile device. Additionally, we'll study SQLAlchemy, a query tool created for SQLite that combines data frame analysis with statistical analysis. Finally, we'll learn about Flask. a website building framework that makes use of Python.
+
+The most used database engine worldwide is SQLite. In addition to being employed in computers and smartphones, it is also utilized in a number of likely-familiar applications. like Photoshop and iTunes. Because SQLite may be kept locally rather than on a database server, this is one of the main factors contributing to its popularity. As you may guess, it's not always very handy to set up a SQL database server merely to try things out. Local databases offer rapid testing and easy prototyping. Therefore, having the ability to use SQLite to do tasks more rapidly is really beneficial.
+
+I'll utilize the SQLAlchemy query tool, which enables us to query SQLite databases, in order to fully take use of SQLite.
+
+To sum up and convey our analysis I'll go to Flask now. a web framework that will instantly show your analysis on a website. Because you frequently want to share analysis with people who don't want to execute your code themselves, this is really useful.
+
+I'll construct my route and my app, and I'll be ready to go.
+
 ## Overview of the Analysis
 
 While on vacation in Hawaii last year I discovered a newfound passion for surfing. I've been trying to come up with a plan that will let me not just return to Hawaii but live here forever. I finally came up with an idea that I think is foolproof. A Surf n' Shake shop serving surfboards and ice cream to locals, tourists, and of  course myself. 
